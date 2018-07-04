@@ -1,0 +1,53 @@
+body{
+	background-image: url("../images/background.jpg");
+	text-align: center;
+}
+
+html, body{
+  height:100%;
+}
+
+
+
+.box{
+  padding: 5% 0;
+  background-color: lightblue;
+  width:500px;
+  margin:5% auto;
+  box-sizing: border-box;
+  min-height: 60%;
+}
+
+
+button{
+  display:block;
+  width:200px;
+  height:100px;
+  margin: 10px auto 0 auto;
+  background:transparent;
+  font-size: 35px;;
+}
+
+
+h1{
+  font-family: verdana;
+  font-size: 20px;
+  margin-bottom: 50px;
+  color: black;
+}
+
+h2{
+  font-size: 35px;
+  margin-bottom: 25px;
+}
+
+h3{
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+
+#start{
+  margin-top: 10%;
+  border:2px solid blue;
+  background: orange;
+}
